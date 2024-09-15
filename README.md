@@ -1,4 +1,4 @@
-## Hi i living to korea and bye
+## Hi i living to korea and bye👋
 
 <!--
 **spaceGC24/spaceGC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
